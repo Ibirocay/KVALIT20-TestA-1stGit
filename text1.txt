@@ -1,1 +1,2 @@
 Testing to do my first commit
+This is my second comment for more git practice
